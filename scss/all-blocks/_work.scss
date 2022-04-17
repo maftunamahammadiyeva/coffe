@@ -1,0 +1,53 @@
+.work__wrapper{
+  padding-left: 196px;
+}
+
+
+.work__top--heading{
+  margin: 0;
+  font-family: 'Fraunces';
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 32px;
+  color: #83888F;
+}
+
+.work__img{
+  margin-top: 80px;
+}
+
+.work__list{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  margin-bottom: 64px;
+
+.work__item+.work__item{
+margin-left: 95px;
+}
+
+  .work__heading{
+    font-family: 'Fraunces';
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 72px;
+    color: #FDD6BA;
+  }
+
+  .work__bottom-heading{
+    width: 255px;
+    font-family: 'Fraunces';
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 36px;
+    color: #333D4B;
+  }
+
+  .work__desc{
+    margin: 0;
+    width: 285px;
+    color: #333D4B;
+  }
+}
