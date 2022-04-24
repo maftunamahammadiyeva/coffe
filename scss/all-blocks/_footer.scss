@@ -39,28 +39,14 @@
   .footer__nav--link:hover{
     color: #FEFCF7;
   }
+}
 
+.footer__conct--list{
+  list-style: none;
+  display: flex;
+  align-items: center;
 
-
-  .footer__conct--list{
-    list-style: none;
+ .conct__item+ .conct__item{
+    margin-left: 24px;
   }
-
-
-  // .conct__list{
-  //   margin: 0;
-  //   padding: 0;
-  //   margin-left: 368px;
-  //   list-style: none;
-  //   display: flex;
-  //   align-items: center;
-
-  //   .conct__item{
-  //     margin-left: 24px;
-  //   }
-
-  //   .footer__link-img:hover{
-  //     background: #FDD6BA;
-  // }
-  // }
 }

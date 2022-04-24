@@ -17,9 +17,14 @@
     color: #FEFCF7;
   }
 
+  .choose__img{
+    object-fit: contain;
+    margin-left: 80px;
+  }
+
   .choose__top--desc{
     margin: 0 auto;
-    width: 540px;
+    max-width: 540px;
     font-family: 'Barlow';
     font-style: normal;
     line-height: 26px;

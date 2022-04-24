@@ -10,7 +10,7 @@
 
   .hero__heading{
     margin: 0;
-    width: 493px;
+    max-width: 493px;
     font-family: 'Fraunces';
     font-style: normal;
     font-weight: 900;
@@ -21,7 +21,7 @@
 
   .hero__desc{
     margin: 0;
-    width: 445px;
+    max-width: 445px;
     margin-top: 32px;
     margin-bottom: 56px;
     font-family: 'Barlow';

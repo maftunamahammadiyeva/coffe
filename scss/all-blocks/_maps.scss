@@ -1,0 +1,47 @@
+.maps-wrapper{
+  margin-top: 168px;
+}
+
+.maps-top-heading{
+  margin: 0;
+  font-family: 'Fraunces';
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 32px;
+  color: #83888F;
+  margin-bottom: 72px;
+}
+
+.maps-list{
+  list-style: none;
+  display: flex;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  margin-top: 45px;
+}
+
+.maps-item{
+  width: 285px;
+}
+
+.maps-item+.maps-item{
+  margin-left: 95px;
+}
+
+.maps-heading{
+  margin: 0;
+  font-family: 'Fraunces';
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 36px;
+  color: #333D4B;
+  margin-bottom: 24px;
+
+}
+
+.maps-desc{
+  margin: 0;
+  line-height: 26px;
+  color: #333D4B;
+}

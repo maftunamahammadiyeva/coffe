@@ -1,0 +1,38 @@
+
+.commitment{
+  padding-top: 168px;
+  padding-bottom: 256px;
+}
+
+.commitment-wrapper{
+  display: flex;
+  align-items:flex-start;
+  margin: 0 auto;
+  width: 1110px;
+}
+
+.commitment-right-wrapper{
+  margin-left: 125px;
+  padding: 90px 0;
+}
+
+.commitment-heading{
+  margin: 0;
+  font-family: 'Fraunces';
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 48px;
+  color: #333D4B;
+}
+
+.commitment-desc{
+  margin: 0;
+  margin-top: 32px;
+  width: 540px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #333D4B;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+}
